@@ -31,6 +31,7 @@ These are prices of one store, not market averages. They follow supplier costs a
 |---|---|---|
 | `data.csv` | 196 | One row per destination. UTF-8 with BOM, `;` separator, prices in RUB |
 | `data.json` | 196 | Same data in JSON with metadata |
+| `notebook.ipynb` | — | Example notebook: median, cheapest and most expensive destinations, medians by part of the world, cheaper regional plans |
 
 ### Columns (`data.csv`)
 
