@@ -1,0 +1,30 @@
+{
+  "creators": [
+    {
+      "name": "Letsim (letsim.ru)"
+    }
+  ],
+  "language": "rus",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "version": "v1 (2026-11-24)",
+  "title": "How much mobile internet costs while travelling: travel eSIM prices in 196 countries (2026)",
+  "license": "cc-by-4.0",
+  "description": "Final retail prices (RUB) of Letsim travel eSIM plans for 196 destinations as of 23 Nov 2026: 1 GB / 7 days, 10 GB / 30 days, price per GB, unlimited for 7 days and cheaper covering regional plans. Median 10 GB / 30 days — 2,465 RUB; Turkey 590 RUB vs New Caledonia 28,690 RUB. Prices of one store, not market averages. Page: https://letsim.ru/issledovaniya/stoimost-interneta-v-poezdke Disclosure: conducted by Letsim, a commercial travel eSIM provider that sells the plans discussed.",
+  "keywords": [
+    "eSIM",
+    "travel eSIM",
+    "mobile internet",
+    "roaming",
+    "prices",
+    "tourism",
+    "data plans"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://letsim.ru/issledovaniya/stoimost-interneta-v-poezdke",
+      "relation": "isSupplementTo",
+      "resource_type": "publication"
+    }
+  ]
+}
